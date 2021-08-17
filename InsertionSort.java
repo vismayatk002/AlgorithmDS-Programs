@@ -3,7 +3,7 @@ public class InsertionSort{
 
     ArrayList<String> wordsList = new ArrayList<>();
     int size;
-    InsertionSort(String size){
+    InsertionSort(int size){
         this.size = size;
     }
     public void readWords(){
