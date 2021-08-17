@@ -19,6 +19,10 @@ public class PrimeNumbers{
             }
         }
     }
+
+    public void isPalindrome(){
+        
+    }
     public static void main(String[] args){
 
         PrimeNumbers prime = new PrimeNumbers();
